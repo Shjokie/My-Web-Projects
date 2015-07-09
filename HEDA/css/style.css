@@ -1,0 +1,362 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-Feb-2015, 19:04:08
+    Author     : EED Advisory
+*/
+body{
+    margin: 0px;
+    padding: 0px;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.7em; 
+    background: #E3CAA1;
+}
+
+#tooplate_wrapper {
+    width: 960px;
+    padding: 0 0px;
+    margin: 0 auto;
+    border:solid 2px #330000;
+    //border-radius: 14.01px;
+    background: url(../images/tooplate_wrapper.png) repeat-y
+}
+
+#tooplate_header {
+    width: 960px;
+    height: 100px;
+    padding-left: 0px;
+    padding-right: 0px;    
+    padding: 0 0px;
+    border:solid 2px #330000;
+    background: url(../images/tooplate_header.jpg) no-repeat
+}
+#tooplate_menu {
+    padding: 25px 0 0 100px;
+}
+
+#tooplate_main {
+    clear: both;
+    width: 880px;
+    padding: 10px 40px 0;
+    background-color: #fff;
+
+}
+#tooplate_content {
+    clear: both;
+    width: 880px;
+    padding-top: 0px;
+    height: 100%;
+}
+#toolplate_session {
+    float: right;
+}
+#tooplate_content_new_client {
+    clear: both;
+    width: 600px;
+    padding-left: 155px; 
+}
+#tooplate_contentusers {
+    clear: both;
+    //height:  600px;
+
+}
+.cleaner { clear: both }
+#tooplate_content_dasgboard {
+    height: 500px;
+    background-color: #547fb5; 
+
+}
+#tooplate_content_login {
+    clear: both;
+    height:500px;
+    //float: center;
+    //background-color: #547fb5; 
+    padding-top: 0px;
+
+}
+
+
+#tooplate_menu ul li a{
+    text-decoration:none;
+}
+c1{
+    color: #5404f5;  
+
+}
+
+p1{color: #000;
+   font-family: Cambria;
+   font-size: 14px; 
+   text-align: center;
+   font:bold;
+}
+p2{color: #000;
+   font-family: Cambria;
+   font-size: 20px; 
+   text-align: center;
+   font: bolder;
+}
+.content {
+    text-align: right;
+    padding-right: 15px;
+}
+.error {color: #FF0000;
+}
+#login_text{
+    border-top:#660033;
+    vertical-align:middle;
+    margin-top:40px;
+    margin-bottom:10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:#5404f5;
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+#login_form{
+    border-top:#660033;
+    vertical-align:middle;
+    margin-top:0px;
+    margin-bottom:40px;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-color:#5404f5;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.heighttext{
+    float:inherit;
+    height:25px;
+    font-weight:bolder;
+    padding-left:20px;
+    width:200px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+
+    border: 1px solid #ccc;
+    border-radius: 3.01px;
+    box-shadow: inset 0 1px 3px #ccc;
+}
+.button{
+    float:inherit;
+    height:25px;
+    width:130px;
+    color:#FFFFFF;
+    cursor: pointer;
+    font-weight:bold; 
+    border:solid 2px #330000;
+    padding:5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    background-color:#330033;
+
+}
+.button1{
+    float:inherit;
+    height:25px;
+    width:200px;
+    color:#FFFFFF;
+    cursor: pointer;
+    font-weight:bold; 
+    border:solid 2px #330000;
+    padding:5px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color:#555;
+    border-radius: 14.01px;
+
+
+}
+#header{
+    float:inherit;
+    height:25px;
+    text-align: center;
+    width:870px;
+    color:#FFFFFF;
+    font-weight:bold; 
+    font-family: cambria;
+    font-size: 20px;
+    //border:solid 2px #330000;
+    padding:5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    background-color:#bd6a69;
+
+}
+
+
+ul {
+    text-align: left;
+    display: inline;
+    margin: 0;
+    padding: 15px 4px 17px 0;
+    list-style: none;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+ul li {
+    font: bold 12px/18px sans-serif;
+    display: inline-block;
+    margin-right: -4px;
+    position: relative;
+    padding: 15px 20px;
+    background: #fff;
+    cursor: pointer;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}
+ul li:hover {
+    background: #555;
+    color: #fff;
+}
+#tooplate_menu ul li a:hover {
+    background: #555;
+    color: #fff;
+}
+ul li ul {
+    padding: 0;
+    position: absolute;
+    top: 48px;
+    left: 0;
+    width: 150px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transiton: opacity 0.2s;
+    -moz-transition: opacity 0.2s;
+    -ms-transition: opacity 0.2s;
+    -o-transition: opacity 0.2s;
+    -transition: opacity 0.2s;
+}
+ul li ul li { 
+    background: #555; 
+    display: block; 
+    color: #fff;
+    text-shadow: 0 -1px 0 #000;
+    z-index: 5;
+    position: relative;
+
+}
+ul li ul li a{
+    transition:all linear 0.15s;
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;
+}
+ul li ul li a:hover {
+    background: #666;
+    color:#be5b70;
+}
+ul li ul li:hover { background: #666;
+                    color: slateblue;
+}
+ul li:hover ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+
+.table_s1 {
+    background: #FFF;
+    border: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: 'Brawler', Georgia, "Times New Roman", Times, serif;
+    margin: 10px 0 0;
+    width: 100%;
+
+}
+
+.table_s1 tr {
+    border-bottom: 1px solid #000;
+}
+.table_s1 th {
+    background-color: #204750;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    padding: 7px 10px;
+    text-align: left;
+}
+.table_s1 .first {
+    width: 20px;
+}
+.table_s1 td {
+    color: #3d3d3e;
+    font-size: 14px;
+    padding: 7px 10px;
+}
+.table_s1 td.topic {
+    border-right: 1px solid #b9d6dc;
+    font-size: 15px;
+}
+.table_s1 tr.color {
+    background-color: #E8ECED;
+}
+.table_s1 tr:hover{
+    background-color:#F0F88F;
+}
+.table_s0 {
+    background: #FFF;
+    border: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: 'Brawler', Georgia, "Times New Roman", Times, serif;
+    margin: 0px 0 0;
+    width: 100%;
+
+}
+.table_s0 tr {
+    border-bottom: 1px solid #000;
+}
+.table_s0 th {
+    background-color: #F0F8FF;
+    color: #fff;
+    font-size: 12px;
+    font-weight: normal;
+    padding-right: 20px;
+    //padding: 7px 10px;
+    text-align: left;
+}
+.table_s0 .first {
+    width: 20px;
+}
+.table_s0 td {
+    color: #3d3d3e;
+    font-size: 14px;
+    //padding: 7px 10px;
+}
+.table_s0 td.topic {
+    border-right: 1px solid #b9d6dc;
+    font-size: 15px;
+}
+.table_s0 tr.color {
+    background-color: #E8ECED;
+}
+
+#tooplate_footer {
+    clear: both;
+    padding: 20px 0;
+    text-align: center;
+    background: #d7e8f9;
+}
+#tooplate_footer a {
+    text-decoration: none;
+}

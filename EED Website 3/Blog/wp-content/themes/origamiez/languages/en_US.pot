@@ -1,0 +1,936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Origamiez\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-23 12:49+0700\n"
+"PO-Revision-Date: 2015-05-23 12:50+0700\n"
+"Last-Translator: Colours Theme <colourstheme@gmail.com>\n"
+"Language-Team: Colours Theme <colourstheme@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "404"
+msgstr "Error 404"
+
+# @ circle
+#: ../404.php:15
+msgid "Page not found..."
+msgstr ""
+
+#: ../404.php:17
+msgid "It seems this page you were looking for does not exist."
+msgstr ""
+
+#: ../404.php:20
+msgid "+ Go back to previous page"
+msgstr ""
+
+#: ../404.php:22
+msgid "+ Go to homepage"
+msgstr ""
+
+#: ../bbpress/index.php:7
+msgid "Right (bbPress)"
+msgstr ""
+
+#: ../comments.php:15
+#, php-format
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:34
+msgid "<span>&laquo;</span> Previous"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Next <span>&raquo;</span>"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:6
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content.php:36 ../single.php:33
+msgid "<i class=\"fa fa-comments-o\"></i> No Comment"
+msgstr ""
+
+#: ../content.php:36 ../single.php:34
+msgid "<i class=\"fa fa-comments-o\"></i> 1 Comment"
+msgstr ""
+
+#: ../content.php:36 ../single.php:35
+msgid "<i class=\"fa fa-comments-o\"></i> % Comments"
+msgstr ""
+
+#: ../content.php:36 ../single.php:37
+msgid "<i class=\"fa fa-comments-o\"></i> Comment Closed"
+msgstr ""
+
+#: ../functions.php:40
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: ../header.php:96 ../inc/customizer.php:563
+msgid "Menu"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:24 ../inc/modules/widgets/flick.php:47
+#: ../inc/modules/widgets/newsletter.php:59
+#: ../inc/modules/widgets/social-links.php:73
+msgid "Title:"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:29
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:34
+msgid "Order by:"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:38
+msgid "Latest news"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:39
+msgid "Most comments"
+msgstr ""
+
+# @ circle
+#: ../inc/classes/abstract-widget.php:40
+msgid "Random"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:52
+msgid "Categories:"
+msgstr ""
+
+# @ circle
+#: ../inc/classes/abstract-widget.php:54 ../inc/classes/abstract-widget.php:72
+msgid "All"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:70
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:88
+msgid "Format:"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:90
+#: ../inc/classes/abstract-widget.php:127
+msgid "-- All --"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:106
+msgid "Combine condition by <i>Tags</i>, <i>Categories</i>, <i>Format</i>"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:110
+msgid "And"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:111
+msgid "Or"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:123
+msgid "In:"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:123
+msgid "(require Wordpress 3.7+)"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:128
+msgid "1 week"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:129
+msgid "2 weeks"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:130
+msgid "3 weeks"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:131
+msgid "1 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:132
+msgid "2 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:133
+msgid "3 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:134
+msgid "4 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:135
+msgid "5 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:136
+msgid "6 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:137
+msgid "7 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:138
+msgid "8 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:139
+msgid "9 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:140
+msgid "10 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:141
+msgid "11 months"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:142
+msgid "1 year"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:143
+msgid "2 years"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:144
+msgid "3 years"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:145
+msgid "4 years"
+msgstr ""
+
+#: ../inc/classes/abstract-widget.php:146
+msgid "5 years"
+msgstr ""
+
+# @ circle
+#: ../inc/customizer.php:192
+msgid "General Setting"
+msgstr ""
+
+#: ../inc/customizer.php:196
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer.php:200
+msgid "Social links"
+msgstr ""
+
+#: ../inc/customizer.php:207
+msgid "Header & Footer"
+msgstr ""
+
+#: ../inc/customizer.php:212
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customizer.php:217
+msgid "Blog posts"
+msgstr ""
+
+#: ../inc/customizer.php:222
+msgid "Single post"
+msgstr ""
+
+# @ circle
+#: ../inc/customizer.php:233
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customizer.php:234
+msgid "Upload or enter your logo"
+msgstr ""
+
+#: ../inc/customizer.php:247
+msgid "Footer information"
+msgstr ""
+
+#: ../inc/customizer.php:248
+msgid "Enter your information, e.g. copyright, or Google AdSense code, ..."
+msgstr ""
+
+#: ../inc/customizer.php:249
+msgid "Copyright &copy; colourstheme.com"
+msgstr ""
+
+#: ../inc/customizer.php:261
+msgid "Layout full width"
+msgstr ""
+
+#: ../inc/customizer.php:275
+msgid "Thumbnail position"
+msgstr ""
+
+#: ../inc/customizer.php:280
+msgid "Thumbnail left"
+msgstr ""
+
+#: ../inc/customizer.php:281
+msgid "Thumbnail right"
+msgstr ""
+
+#: ../inc/customizer.php:288 ../inc/customizer.php:311
+msgid "Show datetime"
+msgstr ""
+
+#: ../inc/customizer.php:297 ../inc/customizer.php:320
+msgid "Show number of comments"
+msgstr ""
+
+#: ../inc/customizer.php:329
+msgid "Show category"
+msgstr ""
+
+#: ../inc/customizer.php:338
+msgid "Show tag"
+msgstr ""
+
+#: ../inc/customizer.php:347
+msgid "Show next & prev posts"
+msgstr ""
+
+#: ../inc/customizer.php:356
+msgid "Show author information"
+msgstr ""
+
+#: ../inc/customizer.php:365
+msgid "Show related posts"
+msgstr ""
+
+#: ../inc/customizer.php:379
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/customizer.php:386
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:387
+msgid "Custom"
+msgstr ""
+
+#: ../inc/customizer.php:393
+msgid "Primary color"
+msgstr ""
+
+#: ../inc/customizer.php:403
+msgid "Secondary color"
+msgstr ""
+
+#: ../inc/customizer.php:413
+msgid "Body text color"
+msgstr ""
+
+#: ../inc/customizer.php:423
+msgid "Heading color"
+msgstr ""
+
+#: ../inc/customizer.php:433
+msgid "Link color"
+msgstr ""
+
+#: ../inc/customizer.php:443
+msgid "Main menu text color"
+msgstr ""
+
+#: ../inc/customizer.php:453
+msgid "Line 1 color"
+msgstr ""
+
+#: ../inc/customizer.php:463
+msgid "Line 2 color"
+msgstr ""
+
+#: ../inc/customizer.php:473
+msgid "Line 3 color"
+msgstr ""
+
+#: ../inc/customizer.php:483
+msgid "Footer sidebar background color"
+msgstr ""
+
+#: ../inc/customizer.php:493
+msgid "Footer sidebar text color"
+msgstr ""
+
+#: ../inc/customizer.php:503
+msgid "Footer widget title color"
+msgstr ""
+
+#: ../inc/customizer.php:513
+msgid "Footer info background color"
+msgstr ""
+
+#: ../inc/customizer.php:523
+msgid "Footer info text color"
+msgstr ""
+
+#: ../inc/customizer.php:543
+msgid "URL"
+msgstr ""
+
+#: ../inc/customizer.php:552
+msgid "Color"
+msgstr ""
+
+#: ../inc/customizer.php:562
+msgid "Body"
+msgstr ""
+
+#: ../inc/customizer.php:564
+msgid "Widget title"
+msgstr ""
+
+#: ../inc/customizer.php:565
+msgid "Heading 1"
+msgstr ""
+
+#: ../inc/customizer.php:566
+msgid "Heading 2"
+msgstr ""
+
+#: ../inc/customizer.php:567
+msgid "Heading 3"
+msgstr ""
+
+#: ../inc/customizer.php:568
+msgid "Heading 4"
+msgstr ""
+
+#: ../inc/customizer.php:569
+msgid "Heading 5"
+msgstr ""
+
+#: ../inc/customizer.php:570
+msgid "Heading 6"
+msgstr ""
+
+#: ../inc/customizer.php:581
+msgid "Check to enable"
+msgstr ""
+
+#: ../inc/customizer.php:591
+msgid "Font Family"
+msgstr ""
+
+#: ../inc/customizer.php:603
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/customizer.php:615
+msgid "Font Style"
+msgstr ""
+
+#: ../inc/customizer.php:627
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/customizer.php:638
+msgid "Line height"
+msgstr ""
+
+#: ../inc/customizer.php:654
+msgid "Link to"
+msgstr ""
+
+#: ../inc/customizer.php:663
+msgid "Title of banner"
+msgstr ""
+
+#: ../inc/customizer.php:672
+msgid "Custom HTML"
+msgstr ""
+
+#: ../inc/customizer.php:689 ../inc/customizer.php:704
+#: ../inc/customizer.php:715 ../inc/customizer.php:727
+#: ../inc/customizer.php:739
+msgid "-- Default --"
+msgstr ""
+
+#: ../inc/customizer.php:740
+msgid "Normal"
+msgstr ""
+
+#: ../inc/customizer.php:741
+msgid "Bold"
+msgstr ""
+
+#: ../inc/customizer.php:742
+msgid "Bolder"
+msgstr ""
+
+#: ../inc/customizer.php:743
+msgid "Lighter"
+msgstr ""
+
+#: ../inc/customizer.php:753
+msgid "Inherit"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:24
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/functions.php:930
+msgid "Loading..."
+msgstr ""
+
+#: ../inc/functions.php:1126
+msgid "second"
+msgstr ""
+
+#: ../inc/functions.php:1127
+msgid "minute"
+msgstr ""
+
+#: ../inc/functions.php:1128
+msgid "hour"
+msgstr ""
+
+#: ../inc/functions.php:1129
+msgid "day"
+msgstr ""
+
+#: ../inc/functions.php:1130
+msgid "week"
+msgstr ""
+
+#: ../inc/functions.php:1131
+msgid "month"
+msgstr ""
+
+#: ../inc/functions.php:1132
+msgid "year"
+msgstr ""
+
+#: ../inc/functions.php:1133
+msgid "decade"
+msgstr ""
+
+#: ../inc/functions.php:1142
+msgid "ago"
+msgstr ""
+
+#: ../inc/functions.php:1145
+msgid "from now"
+msgstr ""
+
+#: ../inc/functions.php:1155
+msgid "s"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:1168
+msgid "Home"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:1213
+#, php-format
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: ../inc/functions.php:1218
+#, php-format
+msgid "Searched for \"%s\" return %s results"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:1238
+msgid "Page not found"
+msgstr ""
+
+#: ../inc/functions.php:1240
+msgid "Latest News"
+msgstr ""
+
+#: ../inc/functions.php:1266
+msgid "Author:"
+msgstr ""
+
+#: ../inc/functions.php:1305
+msgid "Related Articles"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:1358
+msgid "Edit"
+msgstr ""
+
+#: ../inc/functions.php:1418
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../inc/functions.php:1419
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../inc/functions.php:1424
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../inc/functions.php:1425
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../inc/functions.php:1426
+msgid "Cancel reply"
+msgstr ""
+
+#: ../inc/functions.php:1427
+msgid "Post Comment"
+msgstr ""
+
+#: ../inc/functions.php:1494
+msgid "Behance"
+msgstr ""
+
+#: ../inc/functions.php:1498
+msgid "Bitbucket"
+msgstr ""
+
+#: ../inc/functions.php:1502
+msgid "Codepen"
+msgstr ""
+
+#: ../inc/functions.php:1506
+msgid "Delicious"
+msgstr ""
+
+#: ../inc/functions.php:1510
+msgid "Deviantart"
+msgstr ""
+
+#: ../inc/functions.php:1514
+msgid "Digg"
+msgstr ""
+
+#: ../inc/functions.php:1518
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/functions.php:1522
+msgid "Dropbox"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:1526
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/functions.php:1530
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/functions.php:1534
+msgid "Foursquare"
+msgstr ""
+
+#: ../inc/functions.php:1538
+msgid "Git"
+msgstr ""
+
+#: ../inc/functions.php:1542
+msgid "Github"
+msgstr ""
+
+#: ../inc/functions.php:1546
+msgid "Google plus"
+msgstr ""
+
+#: ../inc/functions.php:1550
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/functions.php:1554
+msgid "JsFiddle"
+msgstr ""
+
+#: ../inc/functions.php:1558
+msgid "linkedin"
+msgstr ""
+
+#: ../inc/functions.php:1562
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/functions.php:1566
+msgid "Reddit"
+msgstr ""
+
+#: ../inc/functions.php:1570
+msgid "Soundcloud"
+msgstr ""
+
+#: ../inc/functions.php:1574
+msgid "Spotify"
+msgstr ""
+
+#: ../inc/functions.php:1578
+msgid "Stack exchange"
+msgstr ""
+
+#: ../inc/functions.php:1582
+msgid "Stack overflow"
+msgstr ""
+
+#: ../inc/functions.php:1586
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../inc/functions.php:1590
+msgid "Tumblr"
+msgstr ""
+
+# @ circle
+#: ../inc/functions.php:1594
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/functions.php:1598
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/functions.php:1602
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/functions.php:1606
+msgid "Rss"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:5
+msgid "Right"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:9
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:13
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:17
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:21
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:25
+msgid "Footer 4"
+msgstr ""
+
+#: ../inc/modules/sidebar.php:29
+msgid "Footer 5"
+msgstr ""
+
+#: ../inc/modules/widgets/flick.php:8
+msgid "Display photos from flickr.com. Maximum is 20 photos."
+msgstr ""
+
+#: ../inc/modules/widgets/flick.php:10
+msgid "Origamiez Flickr"
+msgstr ""
+
+#: ../inc/modules/widgets/flick.php:52
+msgid "ID:"
+msgstr ""
+
+#: ../inc/modules/widgets/flick.php:58
+msgid "Number of photos:"
+msgstr ""
+
+#: ../inc/modules/widgets/flick.php:66
+msgid "Photos from Flickr.com"
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:8
+msgid ""
+"Give your biggest fans another way to keep up with your blog or podcast feed "
+"by placing an email subscription form on your site."
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:10
+msgid "Origamiez Newsletter"
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:42
+msgid "Your email"
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:64
+msgid "Newsletter:"
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:70
+msgid "Description:"
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:78
+msgid "Newsletter"
+msgstr ""
+
+#: ../inc/modules/widgets/newsletter.php:80
+msgid "Stay up-to date with the latest news and other stuffs, Sign Up today!"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:8
+msgid "Display posts grid with small thumbnail."
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:10
+msgid "Origamiez Posts Grid"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:30
+msgid "Cols per row:"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:43
+msgid "Excerpt words limit:"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:48
+msgid "Is show date:"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:52
+msgid "Is show comments:"
+msgstr ""
+
+# @ circle
+#: ../inc/modules/widgets/posts-grid.php:140
+#: ../inc/modules/widgets/posts-list-small.php:58 ../search.php:33
+msgid "No Comment"
+msgstr ""
+
+# @ circle
+#: ../inc/modules/widgets/posts-grid.php:140
+#: ../inc/modules/widgets/posts-list-small.php:58 ../search.php:33
+msgid "1 Comment"
+msgstr ""
+
+# @ circle
+#: ../inc/modules/widgets/posts-grid.php:140
+#: ../inc/modules/widgets/posts-list-small.php:58 ../search.php:33
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-grid.php:140
+#: ../inc/modules/widgets/posts-list-small.php:58 ../search.php:33
+msgid "Comment Closed"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-list-small.php:8
+msgid "Display posts list with small thumbnail."
+msgstr ""
+
+#: ../inc/modules/widgets/posts-list-small.php:10
+msgid "Origamiez Posts List Small"
+msgstr ""
+
+#: ../inc/modules/widgets/posts-list-with-format-icon.php:8
+msgid "Display posts list with icon of post-format."
+msgstr ""
+
+#: ../inc/modules/widgets/posts-list-with-format-icon.php:10
+msgid "CT Posts List With Format Icon"
+msgstr ""
+
+#: ../inc/modules/widgets/social-links.php:8
+msgid "Display your social links. Config on Appearance >> Customize."
+msgstr ""
+
+#: ../inc/modules/widgets/social-links.php:10
+msgid "Origamiez Social Links"
+msgstr ""
+
+# @ circle
+#: ../inc/modules/widgets/social-links.php:81
+msgid "Social Links"
+msgstr ""
+
+# @ circle
+#: ../index.php:29 ../page.php:37 ../pagination.php:20 ../single.php:51
+#: ../template-page-fullwidth.php:40
+msgid "Next"
+msgstr ""
+
+# @ circle
+#: ../index.php:30 ../page.php:38 ../pagination.php:19 ../single.php:52
+#: ../template-page-fullwidth.php:41
+msgid "Previous"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Enter your keyword..."
+msgstr ""
+
+#: ../single.php:81
+msgid "Previous Post"
+msgstr ""
+
+#: ../single.php:92
+msgid "Next Post"
+msgstr ""
